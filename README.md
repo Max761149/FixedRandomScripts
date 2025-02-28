@@ -1,4 +1,4 @@
-please open html file there to get scripts, anyways welcome!
+please open txt file there to get scripts, anyways welcome!
 this is where i share scripts!
 Be Careful Because most scripts use r6, so i prefer r6
 How To Use Them:
