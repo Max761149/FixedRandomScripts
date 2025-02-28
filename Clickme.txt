@@ -1,0 +1,6 @@
+Hello! Welcome To FixedRandom Scripts! Here You Get Random Scripts!
+
+Hathub Fixed:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Max761149/Just-test-to-fix/refs/heads/main/updatedhathub3.lua"))()
+
+Note: Plane And 911 Plane Designs Are Broken! And This Works Only In Just A Baseplate, It Has Hat AutoGiver.
